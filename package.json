@@ -1,0 +1,22 @@
+{
+  "name": "api_rt",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AlejoRo/API_rt.git"
+  },
+  "author": "Yo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AlejoRo/API_rt/issues"
+  },
+  "homepage": "https://github.com/AlejoRo/API_rt#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
